@@ -1,5 +1,5 @@
 package com.sandalu.quizapp.controller;
-import com.sandalu.quizapp.question;
+import com.sandalu.quizapp.model.question;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import com.sandalu.quizapp.service.QuestionService;

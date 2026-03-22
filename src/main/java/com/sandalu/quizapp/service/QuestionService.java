@@ -1,7 +1,7 @@
 package com.sandalu.quizapp.service;
 
 import com.sandalu.quizapp.Dao.QuestionDao;
-import com.sandalu.quizapp.question;
+import com.sandalu.quizapp.model.question;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
